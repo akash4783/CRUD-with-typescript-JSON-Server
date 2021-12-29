@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "firstname": "akash ",
+      "lastname": "patil",
+      "email": "akashpatil@gmail.com",
+      "password": "dsaffffff",
+      "mobile": "8788872698",
+      "role": "PROPERTY_OWNERS",
+      "id": 13
+    }
+  ]
+}

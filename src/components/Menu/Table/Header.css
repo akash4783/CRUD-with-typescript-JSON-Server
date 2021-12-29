@@ -1,0 +1,64 @@
+.user{
+    margin-left: 20px;
+    color: blue;
+}
+
+.orders{
+    margin-left: 20px;
+    color: blue;
+
+}
+
+.reports{
+    margin-left: 20px;
+    color: blue
+
+}
+
+.header{
+    margin-left: 650px;
+    margin-top: 30px;
+
+}
+.table{
+   margin: 30px;
+  
+}
+
+.adduser{
+    margin-left: 700px;
+    margin-top: 30px;
+}
+
+.form{
+    margin-left: 500px;
+    margin-top: 40px;
+}
+.save{
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+.save1{
+    margin-left: 100px;
+}
+.cancle{
+    margin-left: 20px;
+}
+.search-button{
+    margin-left: 900px;
+}
+.modal{
+    margin-left: 10px;
+}
+
+.addform{
+    margin-top: 20px;
+    margin-right: 150px;
+}
+
+.add-user{
+    margin-left: 500px;
+    margin-top: 80px;
+    
+}
